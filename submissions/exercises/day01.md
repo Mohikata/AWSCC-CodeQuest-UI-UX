@@ -13,7 +13,7 @@ _(just choose the questions you would like to answer and make it concise)_
 &nbsp;&nbsp;&nbsp;&nbsp;**User-Experience Analysis:**<br/>
 
 -   Which website is easier to find the product you are looking for?<br/>
-    Answer: TEST
+    Answer: 
 
 -   Identify any distractions or unnecessary elements that could potentially confuse users.<br/>
     Answer:
