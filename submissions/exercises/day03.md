@@ -10,6 +10,7 @@ Remember, you're free to add your personal touch, but keep the sacred requiremen
 
 Week 1 [Day 3] : https://www.figma.com/file/vIFcZoOmYwHkIXrn8szeog/Week-1-%5BDay-3%5D-%3A-Activity-(Community)?type=design&node-id=202%3A37&mode=design&t=GkpL2RJuyZeutDKo-1
 
+![image](https://github.com/Mohikata/AWSCC-CodeQuest-UI-UX/assets/134766998/474bd234-4933-4b6f-9c4c-60b8ac36bc97)
 
 Ready to include your output for **Day 3**? Let the customization begin! 🚀✨
 
